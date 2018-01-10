@@ -1,0 +1,1 @@
+:<html><pre>Engine capacity: Electric     Transmission: 1-spd(Direct Drive)<br>Car Drive Train: FWD          Body Type: 5 seater Hatchback<br>Max Power: 123hp @3600rpm     Max Torque: 189lb-ft@0-3056<br>Fuel Tank Volume: 40 Ltr      Mileage: 30 MPG<br>0-100 kph: 7.3 sec            Top Speed: 180 km/hr</pre></html>

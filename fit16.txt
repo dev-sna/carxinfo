@@ -1,0 +1,1 @@
+3<html><pre>Engine capacity: 1.5 Ltr      Transmission: 6-spd(M)<br>Car Drive Train: FWD          Body Type: 5 seater Hatchback<br>Max Power: 130hp @6600rpm     Max Torque: 114ft-lbs @4600rpm<br>Fuel Tank Volume: 40 ltr      Mileage: 32/38 mpg<br>0-100 kph: 8.5 sec            Top Speed: 119 mph</pre></html>

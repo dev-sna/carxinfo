@@ -1,0 +1,1 @@
+M<html><pre>Engine capacity: 1298cc       Transmission: 4 spd(A)/5 spd (M)<br>Car Drive Train: FWD               Body Type: 4/5 seater hatchback<br>Max Power: 90hp @6000rpm      Max Torque: 120nm @3200rpm<br>Fuel Tank Volume: 40 Ltr      Mileage : 17.2 km/L(combined)<br>0-100 kph: 13 sec             Top Speed: 165 km/hr</pre></html>

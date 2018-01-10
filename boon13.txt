@@ -1,0 +1,1 @@
+C<html><pre>Engine capacity: 997cc        Transmission: 5 spd(M)<br>Car Drive Train: FWD               Body Type: 4/5 seater hatchback<br>Max Power: 68bhp @6000rpm     Max Torque: 92 nm @3200rpm<br>Fuel Tank Volume: 40 Ltr      Mileage: 5 L/100 km(combined)<br>0-100 kph: 13 sec             Top Speed: 160 km/hr</pre></html>

@@ -1,0 +1,1 @@
+0<html><pre>Engine capacity: 4 Ltr V6     Transmission: 6-spd(A)<br>Car Drive Train: 4WD          Body Type: 5 seater SUV<br>Max Power: 207kW @5600rpm     Max Torque: 381Nm @4400rpm<br>Fuel Tank Volume: 87 Ltr      Mileage: 11.6 Ltr/100km<br>0-100 kph: 9.2 sec            Top Speed: 200 km/hr</pre></html>

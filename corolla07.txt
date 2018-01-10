@@ -1,0 +1,1 @@
+8<html><pre>Engine capacity: 1.8 Ltr      Transmission: 5-spd(M)<br>Car Drive Train: FWD          Body Type: 5 seater Sedan <br>Max Power: 126hp @6000rpm     Max Torque: 122lb-ft @4200rpm<br>Fuel Tank Volume: 50 Ltr      Mileage: 33 MPG(combined)<br>0-100 kph: 8.3 sec            Top Speed: 180 km/hr</pre></html>

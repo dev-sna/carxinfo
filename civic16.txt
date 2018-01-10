@@ -1,0 +1,1 @@
+2<html><pre>Engine: 1.5 Ltr Turbo         Transmission: 6 spd(M)/CVT<br>Car Drive Train: FWD          Body Type: 5 seater Sedan<br>Max Power: 174hp @6000rpm     Max Torque: 162Nm @1700-5500<br>Fuel Tank Volume: 45 Ltr      Mileage: 6.6L/100km<br>0-100 kph: 6.9 sec            Top Speed: 126 mph</pre></html>

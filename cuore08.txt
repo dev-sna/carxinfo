@@ -1,0 +1,1 @@
+5<html><pre>Engine capacity: 847cc        Transmission: 5 spd(M)<br>Car Drive Train: FWD          Body Type: 4 seater Hatchback<br>Max Power: 40PS @5500rpm      Max Torque: 65Nm @3200rpm<br>Fuel Tank Volume: 50 Ltr      Mileage: 11Km/Liter(combined)<br>0-100 kph: 12 sec             Top Speed: 165</pre></html>

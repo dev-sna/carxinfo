@@ -1,0 +1,1 @@
+/<html><pre>Engine capacity: 800 cc       Transmission: 4-spd(M)<br>Car Drive Train: FWD          Body Type: 4 seater Hatchback<br>Max Power: 40HP @5500rpm     Max Torque: 59Nm @3000rpm<br>Fuel Tank Volume: 30 Ltr      Mileage: 12 km/Ltr<br>0-100 kph: 17 sec             Top Speed: 135 km/hr</pre></html>

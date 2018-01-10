@@ -1,0 +1,1 @@
+%<html><pre>Engine capacity: 1.5 Ltr      Transmission: 4-spd(A)<br>Car Drive Train: FWD          Body Type: 5 seater SUV<br>Max Power: 131hp @6000rpm     Max Torque: 129Nm @3000rpm<br>Fuel Tank Volume: 40 Ltr      Mileage: N/A<br>0-100 kph: 9.5 sec            Top Speed: 200 km/hr</pre></html>

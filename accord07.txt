@@ -1,0 +1,1 @@
+-<html><pre>Engine capacity: 2.4 Ltr      Transmission: 5-spd(M)<br>Car Drive Train: FWD          Body Type: 5 seater Sedan<br>Max Power: 166hp @5800rpm     Max Torque: 160ft-lbs@4000rpm<br>Fuel Tank Volume: 65 Ltr      Mileage: 26 MPG<br>0-100 kph: 8.0 sec            Top Speed: 235 km/hr</pre></html>

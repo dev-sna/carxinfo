@@ -1,0 +1,1 @@
+4<html><pre>Engine capacity: 1.0 Ltr      Transmission: 4 spd(M)<br>Car Drive Train: FWD          Body Type: 4 seater Hatchback<br>Max Power: 54HP @5600rpm      Max Torque: 78Nm @3600rpm<br>Fuel Tank Volume: 37 Ltr      Mileage: 7.1 Ltr/100Km<br>0-100 kph: 13.1 sec           Top Speed: 153 km/hr</pre></html>

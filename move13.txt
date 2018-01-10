@@ -1,0 +1,1 @@
+1<html><pre>Engine capacity: 658 cc       Transmission: 4-spd(A)<br>Car Drive Train: FWD           Body Type: 4 seater Hatchback<br>Max Power: 52PS @6400rpm      Max Torque: 92Nm @3200rpm<br>Fuel Tank Volume: 30 Ltr      Mileage: 15 Km/Ltr<br>0-100 kph: 16 sec             Top Speed: 139 km/hr</pre></html>

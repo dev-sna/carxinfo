@@ -1,0 +1,1 @@
+3<html><pre>Engine capacity: 1.3 Ltr      Transmission: 5-spd(M)/CVT<br>Car Drive Train: FWD          Body Type: 5 seater Sedan<br>Max Power: 120PS @6600rpm     Max Torque: 145Nm @4800rpm<br>Fuel Tank Volume: 40 Ltr      Mileage: 17.4 km/ltr <br>0-100 kph: 10.5 sec           Top Speed: 190km/hr</pre></html>
